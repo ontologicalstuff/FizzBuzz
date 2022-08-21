@@ -2,7 +2,7 @@
 
 This is the classic FizzBuzz coding challenge for neophytes. The problem, as stated in The Odin Project, reads: 
 
-	Write a program that takes a user’s input and prints the numbers from one to the number the user entered. However, for multiples 	 of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both 		three and five print FizzBuzz.
+	Write a program that takes a user’s input and prints the numbers from one to the number the user entered. However, for multiples of 	three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and 		five print FizzBuzz.
 	
 Following the problem solving principle of "divide and conquer," I decompose the problem into the following subproblems: 
 
