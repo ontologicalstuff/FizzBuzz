@@ -14,4 +14,4 @@ Following the problem solving principle of "divide and conquer," I decompose the
 
 (4) "multiples of five print Buzz." --> Thus, (1, 2, Fizz, 4, 5) = (1, 2, Fizz, 4, Buzz.)
 
-(5) "for numbers which are multiples of both three and five print FizzBuzz." --> If it number inputted by the user were 15, then (1, 2, Fizz, 4, Buzz... 14, FizzBuzz) would be the answer.
+(5) "for numbers which are multiples of both three and five print FizzBuzz." --> If the number inputted by the user were 15, then (1, 2, Fizz, 4, Buzz... 14, FizzBuzz) would be the answer.
